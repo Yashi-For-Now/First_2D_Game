@@ -1,0 +1,23 @@
+# Compiled Java files
+*.class
+
+# Build output folders
+bin/
+out/
+build/
+
+# Libraries
+lib/
+
+# VS Code settings (optional - you can keep this if you want to share settings)
+.vscode/
+
+# IntelliJ / Eclipse (in case you ever switch)
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# macOS junk (doesn't apply to you but good habit)
+.DS_Store
